@@ -1,0 +1,16 @@
+C:\Users\rthkiqw\source\repos\rthkiqw\Buttons\bin\Debug\Buttons.exe.config
+C:\Users\rthkiqw\source\repos\rthkiqw\Buttons\bin\Debug\Buttons.exe
+C:\Users\rthkiqw\source\repos\rthkiqw\Buttons\bin\Debug\Buttons.pdb
+C:\Users\rthkiqw\source\repos\rthkiqw\Buttons\obj\Debug\Buttons.csproj.AssemblyReference.cache
+C:\Users\rthkiqw\source\repos\rthkiqw\Buttons\obj\Debug\Buttons.csproj.SuggestedBindingRedirects.cache
+C:\Users\rthkiqw\source\repos\rthkiqw\Buttons\obj\Debug\MainWindow.g.cs
+C:\Users\rthkiqw\source\repos\rthkiqw\Buttons\obj\Debug\App.g.cs
+C:\Users\rthkiqw\source\repos\rthkiqw\Buttons\obj\Debug\Buttons_MarkupCompile.cache
+C:\Users\rthkiqw\source\repos\rthkiqw\Buttons\obj\Debug\Buttons_MarkupCompile.lref
+C:\Users\rthkiqw\source\repos\rthkiqw\Buttons\obj\Debug\MainWindow.baml
+C:\Users\rthkiqw\source\repos\rthkiqw\Buttons\obj\Debug\Buttons.g.resources
+C:\Users\rthkiqw\source\repos\rthkiqw\Buttons\obj\Debug\Buttons.Properties.Resources.resources
+C:\Users\rthkiqw\source\repos\rthkiqw\Buttons\obj\Debug\Buttons.csproj.GenerateResource.cache
+C:\Users\rthkiqw\source\repos\rthkiqw\Buttons\obj\Debug\Buttons.csproj.CoreCompileInputs.cache
+C:\Users\rthkiqw\source\repos\rthkiqw\Buttons\obj\Debug\Buttons.exe
+C:\Users\rthkiqw\source\repos\rthkiqw\Buttons\obj\Debug\Buttons.pdb
